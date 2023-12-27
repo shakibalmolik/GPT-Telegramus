@@ -145,7 +145,7 @@
     "__comment07__": "GEMINI SETTINGS",
     "gemini": {
         "__comment01__": "API_KEY FROM https://makersuite.google.com/app/apikey",
-        "api_key": "",
+        "api_key": "AIzaSyB70wTyqLs0wQSnbb1JYpv5IVn3lgfNI1M",
 
         "__comment02__": "AI CONFIG, SEE https://ai.google.dev/api/python/google/generativeai/GenerationConfig for more",
         "temperature": 0.9,
@@ -170,10 +170,10 @@
     "__comment08__": "TELEGRAM SETTINGS",
     "telegram": {
         "__comment01__": "PROVIDE YOUR BOT API KEY FROM https://t.me/BotFather",
-        "api_key": "",
+        "api_key": "6433736505:AAE5HZpNkSY1_j8idF2EUYUc8YzhyMMyFPc",
 
         "__comment02__": "SPECIFY THE chat_id OF THOSE WHO CAN USE ADMINISTRATOR COMMANDS",
-        "admin_ids": [],
+        "admin_ids": [278203204],
 
         "__comment03__": "SET TO TRUE TO BLOCK NEW USERS BY DEFAULT (WHITELIST)",
         "ban_by_default": false,
