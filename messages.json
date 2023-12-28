@@ -2,7 +2,11 @@
     {
         "language_name": "🇺🇸 English",
         "language_icon": "🇺🇸",
-        "start_message": "\\n انا بوت الذكاء الإصطناعي الأحدث عالمياً \\n يمكنني الكتابة والإجابة على الأسئلة وكذلك التعرف على الصور",
+        "language_select_error": "❌ Error selecting language!\\n\\n{0}",
+        "language_select": "Please select an interface language",
+        "language_changed": "🇺🇸 You've selected English\\n\\nYou can change the language at any time by typing the /lang command",
+        "start_message": "Hello\\ Welcome to our bot.",
+        "help_message": "📄 /start - Welcome message and bot version\\n❓ /help - Show this message\\n↕ /module - Change module to chat with\\n🧹 /clear - Clear chat history\\n🌎 /lang - Change the language\\n🆔 /chatid - Show your chat_id\\n\\nNow to get started send me any message 💬",
         "help_message_admin": "Admin commands:\\n\\n💬 /queue - Show requests queue\\n🔃 /restart - Restart proxies and telegram bot\\n👤 /users - Show list of all users\\n🔨 /ban <id> [reason] - Ban a user by their id with reason (optional)\\n🔓 /unban <id> - Unban a user by their id\\n📢 /broadcast <message> - Send text message to everyone except banned users",
         "empty_request_module_changed": "✅ Your module has been changed to {0}\\nNow send me your request as a message",
         "media_group_response": "Generated images for \"{}\" request",
